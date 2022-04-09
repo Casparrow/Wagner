@@ -27,12 +27,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "proyecto/node_modules/bootstrap/dist/css/bootstrap.css"
+              "src/styles.css"
+              
+              
             ],
-            "scripts": [
-              "proyecto/node_modules/bootstrap/dist/js/bootstrap.js"
-            ]
+            "scripts": []            
           },
           "configurations": {
             "production": {
