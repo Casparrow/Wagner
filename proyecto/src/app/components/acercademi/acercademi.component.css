@@ -6,3 +6,17 @@ div{
     background-color: brown;
     text-align: center;
 }
+ @media (min-width:576px){
+#fotoperfil{
+    position: absolute;
+    width: 49%;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px  grey;
+}
+ }
+
+#nombre{
+    font-weight: bold;
+    margin-top: 40%;
+    margin-left: 10px;
+}
