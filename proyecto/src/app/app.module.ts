@@ -5,18 +5,18 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { LogoapComponent } from './components/logoap/logoap.component';
-import { RedessocialesComponent } from './components/redessociales/redessociales.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { AcercademiComponent } from './components/acercademi/acercademi.component';
+import { RedesComponent } from './components/redes/redes.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     LogoapComponent,
-    RedessocialesComponent,
     BannerComponent,
-    AcercademiComponent
+    AcercademiComponent,
+    RedesComponent
   ],
   imports: [
     BrowserModule,

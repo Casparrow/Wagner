@@ -9,9 +9,9 @@ div{
  @media (min-width:576px){
 #fotoperfil{
     position: absolute;
-    width: 49%;
+    width: 60%;
     border-radius: 100%;
-    box-shadow: 3px 3px 3px  grey;
+    box-shadow: 3px 3px 3px 3px black;
     left:3%;
     top:-100px;
 }
@@ -19,9 +19,9 @@ div{
  @media (max-width:575px){
     #fotoperfil{
         position: absolute;
-        width: 49%;
+        width: 60%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px  grey;
+        box-shadow: 3px 3px 3px 3px  black;
         left:3%;
         top:-100px;
     }
