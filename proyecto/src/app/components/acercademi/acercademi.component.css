@@ -12,8 +12,20 @@ div{
     width: 49%;
     border-radius: 100%;
     box-shadow: 3px 3px 3px  grey;
+    left:3%;
+    top:-100px;
 }
  }
+ @media (max-width:575px){
+    #fotoperfil{
+        position: absolute;
+        width: 49%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px  grey;
+        left:3%;
+        top:-100px;
+    }
+}
 
 #nombre{
     font-weight: bold;
