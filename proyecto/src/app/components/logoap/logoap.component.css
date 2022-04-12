@@ -9,3 +9,7 @@ div{
     float: right;
     margin-top: 30px;
 }
+
+img, h5{
+    display: inline;
+}
