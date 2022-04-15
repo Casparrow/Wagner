@@ -1,7 +1,14 @@
 .row{
     padding: 15px;
 }
-
+#titulo{
+background-color: teal;
+color:black;
+}
+#texto{
+background-color: teal;
+color: black;
+}
 div{
     background-color: brown;
     text-align: center;
