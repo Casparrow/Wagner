@@ -1,5 +1,5 @@
 .row{
-    padding: 15px;
+    padding: 10px;
 }
 #titulo{
 background-color: teal;
@@ -12,8 +12,9 @@ color: black;
 div{
     background-color: brown;
     text-align: center;
+    width: 101.1%;
 }
- @media (min-width:576px){
+ @media (min-width:575px){
 #fotoperfil{
     position: absolute;
     width: 60%;

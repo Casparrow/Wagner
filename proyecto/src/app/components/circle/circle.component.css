@@ -1,4 +1,11 @@
 .row{
     background-color: rgb(233, 145, 62);
     padding: 20px;
+    width: 101.1%;
+}
+
+#titulo{
+    color: rgb(30, 102, 7);
+    padding: 10px;
+    text-decoration: underline;
 }

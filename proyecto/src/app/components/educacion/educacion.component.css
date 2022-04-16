@@ -3,10 +3,12 @@
 }
 div{
     background-color: rgb(82, 5, 5);
+    width: 101.1%;
 }
 h1, h3{
     display: inline;
     color: rgb(211, 126, 30) ;
+    text-decoration: underline;
 }
 p{
     color: rgb(211, 126, 30);
