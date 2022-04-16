@@ -13,3 +13,6 @@ div{
 img, h5{
     display: inline;
 }
+h5{
+    color: white;
+}
