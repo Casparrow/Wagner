@@ -1,10 +1,10 @@
-package com.portfolioWagner.ARGprogram;
+package com.portfolio.Wagner;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ArGprogramApplicationTests {
+class WagnerApplicationTests {
 
 	@Test
 	void contextLoads() {
